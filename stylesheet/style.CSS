@@ -1,0 +1,81 @@
+html {
+    background-color: #ffefd5;
+    background-repeat: no-repeat;
+    background-size: contain;
+    font-family: "Cormorant Upright", serif;
+    color: #836953;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold ;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 5px;
+    padding: 10px;
+}
+
+h2{
+    font-size: 26px;
+    font-weight: bold;
+    border-bottom: 2px solid;
+
+}
+
+p{
+  font-size: 16px;
+  text-align: justify;
+  text-indent: 20px;
+}
+
+ul,ol {
+    font-size: 16px;
+    line-height: 2.5;
+}
+
+img{
+    display: block;
+    margin: auto;
+    opacity: 1.1;
+    border-radius: 8px;
+}
+
+table{
+    width: 100%;
+    background-color: #836953;
+    font-size: 15px;
+    border-collapse: collapse;
+}
+
+th{
+    background-color: hsl(27, 28%, 75%);
+    font-weight: bold;
+    text-align: ;
+}
+
+td{
+    background-color: white;
+}
+
+th,td {
+    padding: 8px;
+}
+
+a{
+    color: #836953;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: hsl(27, 28%, 75%);
+}
+
+label{
+    font-weight: bold;
+    font-size: 14px;
+    color: hsl(27, 28%, 75%);
+}
+
